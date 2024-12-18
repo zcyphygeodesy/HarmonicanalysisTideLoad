@@ -1,0 +1,11 @@
+testdata\sphAAk1.dat
+testdata\sphAAk2.dat
+testdata\sphAAm2.dat
+testdata\sphAAmf.dat
+testdata\sphAAn2.dat
+testdata\sphAAo1.dat
+testdata\sphAAp1.dat
+testdata\sphAAq1.dat
+testdata\sphAAs2.dat
+testdata\sphAAsa.dat
+testdata\sphAmsf.dat
