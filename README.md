@@ -40,7 +40,7 @@ The 7th numerical value of tidal harmonic constant grid file header is the Doods
     PickRecord(line, kln, rec, nn); PickRecstr(line,kln,str,sn); ReimtoHg(xx,x1)
     StatGrid(grid,row,col,rst); CGrdPntD2(lon,lat,dtm,nlat,nlon,hd)
 ## [For compile and link]
-    Fortran90, 132 Columns fixed format. Fortran compiler. Fortran compiler. mkl_lapack95_ilp64.lib link library (include fftw3.f)required.
+    Fortran90, 132 Columns fixed format. Fortran compiler. mkl_lapack95_ilp64.lib link library (include fftw3.f)required.
 ## [Algorithmic formula] ETideLoad4.5 User Reference https://www.zcyphygeodesy.com/en/
     7.1 Geodetic Data Files in ETideLoad own Format
     8.4.1 Construction of tidal load spherical harmonic coefficient model
