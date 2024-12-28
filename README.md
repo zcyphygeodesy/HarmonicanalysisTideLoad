@@ -45,4 +45,4 @@ The 7th numerical value of tidal harmonic constant grid file header is the Doods
     7.1 Geodetic Data Files in ETideLoad own Format
     8.4.1 Construction of tidal load spherical harmonic coefficient model
     8.2.3 The normalized associated Legendre functions and thier derivatives
-DOS executable test file and all input and output data.
+The zip compression package includes the test project in visual studio 2017 - intel fortran integrated environment, DOS executable test file and all input and output data.
