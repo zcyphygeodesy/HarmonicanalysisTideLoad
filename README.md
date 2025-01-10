@@ -1,11 +1,11 @@
 ## Fortran codes for spherical harmonic analysis on tidal constants and modelling
 https://www.zcyphygeodesy.com/en/h-nd-141.html
 ## [Algorithm purpose]
-    From the tidal constituent harmonic constant spherical coordinate grid, construct a normalized tidal load spherical harmonic coefficient model and a first-degree tidal load spherical harmonic coefficient model by spherical harmonic analysis. 
-    The tidal load spherical harmonic coefficient model format is the same as FES2004 ocean tidal load model in the IERS conventions (2010). Using the model, the tidal load effects on various geodetic variations outside the solid Earth can be computed by the spherical harmonic synthesis.
-    The first-degree tidal load spherical harmonic coefficient model can be employed to forecast the tidal load effects on Earth's center of mass.
-    The unit of the tidal constituent harmonic constants is the same as the unit of the tidal load spherical harmonic coefficients. The unit of the surface atmosphere tidal harmonic constants and the atmosphere tidal load spherical harmonic coefficients are hPa or mbar, and the unit of the ocean tidal harmonic constants and the load spherical harmonic coefficients are cm.
-    The degree number maxn of tidal load spherical harmonic coefficient model is equal to the number of harmonic constant spherical coordinate cell-grids in the latitude direction. For example, the 0.25˚ × 0.25˚ tidal harmonic constant spherical coordinate grid corresponds to maxn=720.
+&emsp;```From the tidal constituent harmonic constant spherical coordinate grid, construct a normalized tidal load spherical harmonic coefficient model and a first-degree tidal load spherical harmonic coefficient model by spherical harmonic analysis. ```  
+&emsp;```The tidal load spherical harmonic coefficient model format is the same as FES2004 ocean tidal load model in the IERS conventions (2010). Using the model, the tidal load effects on various geodetic variations outside the solid Earth can be computed by the spherical harmonic synthesis.```  
+&emsp;```The first-degree tidal load spherical harmonic coefficient model can be employed to forecast the tidal load effects on Earth's center of mass.```  
+&emsp;```The unit of the tidal constituent harmonic constants is the same as the unit of the tidal load spherical harmonic coefficients. The unit of the surface atmosphere tidal harmonic constants and the atmosphere tidal load spherical harmonic coefficients are hPa or mbar, and the unit of the ocean tidal harmonic constants and the load spherical harmonic coefficients are cm.```  
+&emsp;```The degree number maxn of tidal load spherical harmonic coefficient model is equal to the number of harmonic constant spherical coordinate cell-grids in the latitude direction. For example, the 0.25˚ × 0.25˚ tidal harmonic constant spherical coordinate grid corresponds to maxn=720.```
 ![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAgvLbQuQYo34fC3QYwlg44ugk.jpg)
 ![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAgsbbQuQYo_MSZ_AIwlg44ugk.jpg)
 ## [Main program for test entrance]
